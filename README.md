@@ -3,6 +3,7 @@
 A new Flutter project.
 
 line #1
+line #2
 
 ## Getting Started
 
