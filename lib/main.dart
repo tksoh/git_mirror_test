@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 // comment #5
 // comment #6
 // comment #7
+// comment #8
 
 void main() {
   runApp(const MyApp());
